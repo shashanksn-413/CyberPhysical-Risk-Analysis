@@ -41,6 +41,16 @@ Models downstream physical water movement aligned with major river basins: Ohio,
 
 Both models use the same 10-state adjacency matrix. The resilience differences arise entirely from how the topology is interpreted (undirected vs directed), not from changes in the underlying structure.
 
+### MBRA Network Visualizations (80% Vulnerability)
+
+**Cascade Network: Cyber (Undirected)**
+
+![Cascade Network 80% Vulnerability](images/cascade_network_80.jpg)
+
+**Flow Network: Physical (Directed)**
+
+![Flow Network 80% Vulnerability](images/flow_network_80.jpg)
+
 ---
 
 ## Centrality Analysis
