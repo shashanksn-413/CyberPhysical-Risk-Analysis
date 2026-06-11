@@ -112,9 +112,9 @@ Combined elimination cost of $864M exceeds available prevention budget, demonstr
 
 ### Investment Priority Recommendation
 
-1. **Pennsylvania** — dominates both cascade and flow networks, produces highest risk reduction when hardened
-2. **Illinois** — strongest cyber conduit in cascade model
-3. **New Jersey** — major downstream physical transfer point stabilizing the eastern corridor
+1. **Pennsylvania**: dominates both cascade and flow networks, produces highest risk reduction when hardened
+2. **Illinois**: strongest cyber conduit in cascade model
+3. **New Jersey**: major downstream physical transfer point stabilizing the eastern corridor
 
 ---
 
